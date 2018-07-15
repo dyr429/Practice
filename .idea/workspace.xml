@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3023475-733b-43cd-94bb-169362b1bb0e" name="Default" comment="" />
+    <list default="true" id="e3023475-733b-43cd-94bb-169362b1bb0e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +18,8 @@
       <file leaf-file-name="LC15_3Sum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leetcode/LC15_3Sum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="49" selection-start-line="49" selection-end-line="53" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1056">
+              <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="53" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -27,8 +27,8 @@
       <file leaf-file-name="LC122_Stock.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leetcode/LC122_Stock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="22" selection-start-line="4" selection-start-column="7" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="330">
+              <caret line="15" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -36,17 +36,65 @@
       <file leaf-file-name="LC55_Jumpgame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leetcode/LC55_Jumpgame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="25" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="25" />
+            <state relative-caret-position="264">
+              <caret line="12" column="25" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC45_Jumpgame2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LC45_Jumpgame2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leetcode/LC45_Jumpgame2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="42" column="32" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="32" />
+            <state relative-caret-position="1144">
+              <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC316_RDL.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/LC316_RDL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1144">
+              <caret line="54" column="5" selection-start-line="51" selection-start-column="4" selection-end-line="54" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC835_ImageOverlap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/LC835_ImageOverlap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC32_ValidP.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/LC32_ValidP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1188">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC31_NextPermutation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/LC31_NextPermutation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC256_PaintHouse.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/LC256_PaintHouse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" selection-start-line="5" selection-start-column="2" selection-end-line="7" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -60,6 +108,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -72,6 +123,11 @@
         <option value="$PROJECT_DIR$/src/Leetcode/LC122_Stock.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/LC55_Jumpgame.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/LC45_Jumpgame2.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/LC316_RDL.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/LC835_ImageOverlap.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/LC32_ValidP.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/LC31_NextPermutation.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/LC256_PaintHouse.java" />
       </list>
     </option>
   </component>
@@ -84,18 +140,17 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="2576" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1440" />
+    <option name="width" value="2560" />
+    <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,6 +173,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
@@ -125,6 +181,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,9 +196,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC45_Jumpgame2">
-    <configuration name="LC122_Stock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.LC122_Stock" />
+  <component name="RunManager" selected="Application.LC256_PaintHouse">
+    <configuration name="LC256_PaintHouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.LC256_PaintHouse" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -149,8 +207,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LC15_3Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.LC15_3Sum" />
+    <configuration name="LC316_RDL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.LC316_RDL" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -159,8 +217,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LC45_Jumpgame2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.LC45_Jumpgame2" />
+    <configuration name="LC31_NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.LC31_NextPermutation" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -169,8 +227,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LC55_Jumpgame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.LC55_Jumpgame" />
+    <configuration name="LC32_ValidP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.LC32_ValidP" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -179,24 +237,30 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RestoreIP93" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RestoreIP93" />
+    <configuration name="LC835_ImageOverlap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.LC835_ImageOverlap" />
       <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.RestoreIP93" />
-      <item itemvalue="Application.LC15_3Sum" />
-      <item itemvalue="Application.LC122_Stock" />
-      <item itemvalue="Application.LC55_Jumpgame" />
-      <item itemvalue="Application.LC45_Jumpgame2" />
+      <item itemvalue="Application.LC316_RDL" />
+      <item itemvalue="Application.LC835_ImageOverlap" />
+      <item itemvalue="Application.LC32_ValidP" />
+      <item itemvalue="Application.LC31_NextPermutation" />
+      <item itemvalue="Application.LC256_PaintHouse" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LC45_Jumpgame2" />
-        <item itemvalue="Application.LC55_Jumpgame" />
-        <item itemvalue="Application.LC122_Stock" />
-        <item itemvalue="Application.LC15_3Sum" />
-        <item itemvalue="Application.RestoreIP93" />
+        <item itemvalue="Application.LC256_PaintHouse" />
+        <item itemvalue="Application.LC31_NextPermutation" />
+        <item itemvalue="Application.LC32_ValidP" />
+        <item itemvalue="Application.LC835_ImageOverlap" />
+        <item itemvalue="Application.LC316_RDL" />
       </list>
     </recent_temporary>
   </component>
@@ -222,43 +286,47 @@
       <workItem from="1531454079163" duration="204000" />
       <workItem from="1531454373052" duration="2742000" />
       <workItem from="1531511497619" duration="3325000" />
+      <workItem from="1531532612484" duration="363000" />
+      <workItem from="1531533038165" duration="216000" />
+      <workItem from="1531533416274" duration="15519000" />
+      <workItem from="1531678481309" duration="365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31901000" />
+    <option name="totallyTimeSpent" value="48364000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <frame x="1440" y="0" width="2560" height="1080" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3295838" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30933633" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21341464" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3013589" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49853373" visible="true" weight="0.17743222" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.5014663" side_tool="true" weight="0.31195965" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3183352" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31808943" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3292683" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,17 +369,57 @@
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/LC45_Jumpgame2.java</url>
-          <line>37</line>
+          <url>file://$PROJECT_DIR$/src/Leetcode/LC316_RDL.java</url>
+          <line>24</line>
           <properties />
-          <option name="timeStamp" value="56" />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/LC835_ImageOverlap.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/LC32_ValidP.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/LC32_ValidP.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/LC31_NextPermutation.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/LC256_PaintHouse.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="78" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="57" />
+      <option name="time" value="80" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>nums[i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>promise.substring(i+1,promise.length()</expression-string>
         <language-id>JAVA</language-id>
@@ -352,26 +460,163 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>j</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>temp</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Leetcode/LC15_3Sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1431">
-          <caret line="53" column="5" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
+        <state relative-caret-position="1056">
+          <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC122_Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC55_Jumpgame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="25" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC45_Jumpgame2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC316_RDL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="54" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC835_ImageOverlap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC32_ValidP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC31_NextPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC256_PaintHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-start-column="2" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC15_3Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="49" selection-start-line="49" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC122_Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="22" selection-start-line="4" selection-start-column="7" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC55_Jumpgame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="25" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC45_Jumpgame2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC15_3Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="49" selection-start-line="49" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC122_Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="22" selection-start-line="4" selection-start-column="7" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC55_Jumpgame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="25" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC45_Jumpgame2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC15_3Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="49" selection-start-line="49" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC122_Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="22" selection-start-line="4" selection-start-column="7" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC55_Jumpgame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC45_Jumpgame2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC15_3Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1431">
+          <caret line="53" column="5" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -386,9 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -479,36 +721,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC122_Stock.java">
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC55_Jumpgame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="22" selection-start-line="4" selection-start-column="7" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="264">
+          <caret line="12" column="25" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC55_Jumpgame.java">
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC45_Jumpgame2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="25" />
+        <state relative-caret-position="1144">
+          <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC122_Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC835_ImageOverlap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/LC15_3Sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="49" selection-start-line="49" selection-end-line="53" selection-end-column="5" />
+        <state relative-caret-position="1056">
+          <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC32_ValidP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC31_NextPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC316_RDL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="54" column="5" selection-start-line="51" selection-start-column="4" selection-end-line="54" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC45_Jumpgame2.java">
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/LC256_PaintHouse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="42" column="32" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="32" />
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-start-column="2" selection-end-line="7" selection-end-column="35" />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

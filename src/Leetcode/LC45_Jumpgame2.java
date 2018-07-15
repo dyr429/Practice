@@ -1,46 +1,55 @@
 package Leetcode;
-
+//Given an array of non-negative integers, you are initially positioned at the first index of the array.
+//
+//        Each element in the array represents your maximum jump length at that position.
+//
+//        Your goal is to reach the last index in the minimum number of jumps.
+//
+//        Example:
+//
+//        Input: [2,3,1,1,4]
+//        Output: 2
+//        Explanation: The minimum number of jumps to reach the last index is 2.
+//        Jump 1 step from index 0 to 1, then 3 steps to the last index.
+//        Note:
+//
+//        You can assume that you can always reach the last index.
 public class LC45_Jumpgame2 {
     public static int jump(int[] nums) {
-        int len = nums.length;
-        int step[] = new int[nums.length];
-        for(int i=0;i<len;i++){
-            step[i] = 0;
-        }
-        step[len-1] = 0;
+        if(nums == null || nums.length==1)
+            return 0;
+        else if(nums[0]>=nums.length-1)
+            return 1;
 
-        for(int pos = len-2; pos>=0; pos--){
-            if(nums[pos]==0){
-                step[pos] = Integer.MAX_VALUE;
-            }
-            else if(nums[pos]+pos>=len-1){
-                step[pos] = 1;
-            }else{
-                int minStep =  minStep(nums, step, pos);
-                if(minStep!=Integer.MAX_VALUE){
-                    step[pos] = 1 + minStep;
-                }else {
-                    step[pos] = minStep;
-                }
 
+        int currentBest = 0;
+        int steps = 1;
+        int lastRange=nums[0];
+        for(int i =0;i<nums.length-1;i++){
+            currentBest = Math.max(currentBest,i+nums[i]);
+            if(currentBest>=nums.length-1)
+                break;
+            else if(i==lastRange){
+                lastRange = currentBest;
+                steps++;
             }
         }
-        return step[0];
-    }
+        return steps+1;
 
-    private static int minStep(int[] nums, int[] step, int pos){
-        int min = Integer.MAX_VALUE;
-        for(int i = pos+1; i<=pos+nums[pos];i++){
-            if(min>step[i]){
-                min = step[i];
-            }
-        }
-        return min;
+
+
+
+
     }
 
 
     public static void main(String [ ] args){
-        int arr[] = {5,9,3,2,1,0,2,3,3,1,0,0};
-        System.out.println(jump(arr));
+        //int arr[] = {7,0,9,6,9,6,1,7,9,0,1,2,9,0,3};
+        //int arr[] = {2,3,1,1,4};
+        //int arr[] = {2,1};
+        //int arr[] = {6,9,1,5,6,0,0,5,9};
+        //int arr[] = {1,1,2,1,1};
+        //int arr[] = {1,1,1,1,1};
+    //    System.out.println(jump(arr));
     }
 }
